@@ -55,7 +55,7 @@ pip install tensorflow keras opencv-python pillow numpy tkinterdnd2
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/shaktibiplabDev/animal-classification.git
+git clone https://github.com/shaktibiplabDev/Animal-Classification-System-Using-Deep-Learning-and-Transfer-Learning animal-classification
 cd animal-classification
 ```
 
